@@ -4,7 +4,9 @@
 ## Chapter 10 File Systems
 
 1. In an EXT-filesystem, how many inodes does a file have?
+	
 	1.1 What the hell are inodes?
+	
 	The Linux file system relies on inodes.
 
 

@@ -19,6 +19,10 @@
 
 	2.A What the hell is fragmentation to begin with?
 
+	https://afteracademy.com/blog/what-is-fragmentation-and-what-are-its-types
+
+	In contiguous memory allocation whenever the processes come into RAM, space is allocated to them. These spaces in RAM are divided either on the basis of fixed partitioning(the size of partitions are fixed before the process gets loaded into RAM) or dynamic partitioning (the size of the partition is decided at the run time according to the size of the process). As the process gets loaded and removed from the memory these spaces get broken into small pieces of memory that it can’t be allocated to the coming processes. This problem is called fragmentation.
+
 	2.1 What is external fragmentation?
 
 	![External Fragmentation](https://media.geeksforgeeks.org/wp-content/uploads/20200729172413/2581.png)

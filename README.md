@@ -9,6 +9,10 @@
 	
 	The Linux file system relies on inodes.
 
+	In the Linux ext4 file system, the inode and directory structures work together to provide an underpinning framework that stores all the metadata for every file and directory. They make the metadata available to anyone who requires it, whether that’s the kernel, user applications, or Linux utilities, such as ls, stat, and df.
+
+Answer: I guess it's got only 1?
+
 
 2. Hva menes med ekstern og intern fragmentering i forbindelse med en fil?
 

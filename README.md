@@ -4,6 +4,9 @@
 ## Chapter 10 File Systems
 
 1. In an EXT-filesystem, how many inodes does a file have?
+	1.1 What the hell are inodes?
+	The Linux file system relies on inodes.
+
 
 2. Hva menes med ekstern og intern fragmentering i forbindelse med en fil?
 

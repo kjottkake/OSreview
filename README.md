@@ -19,11 +19,11 @@
 
 	2.1 What is external fragmentation?
 
-	![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20190924115421/Untitled-Diagram-146.png)
+	![External Fragmentation](https://media.geeksforgeeks.org/wp-content/uploads/20200729172413/2581.png)
 
 
 	2.2 What is internal fragmentation?
-
+	![Internal Fragmentation](https://media.geeksforgeeks.org/wp-content/uploads/20190924115421/Untitled-Diagram-146.png)
 
 
 3. Hva er en fildeskriptor (fd)?

@@ -47,6 +47,10 @@ hw.txt    101
 oblig.txt 102
 listofstuff.txt 103
 
+4.  Filer har en rekke tilhørende metadata, som for eksempel filnavn,
+    eier, rettigheter, timestamps etc. Hvor er disse dataene lagret i
+    Linux-filsystemet (EXT)?
+
 
 
 

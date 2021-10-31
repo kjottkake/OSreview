@@ -25,6 +25,8 @@
 
 	2.1 What is external fragmentation?
 
+	https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/
+
 	![External Fragmentation](https://media.geeksforgeeks.org/wp-content/uploads/20200729172413/2581.png)
 
 

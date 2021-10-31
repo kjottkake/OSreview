@@ -26,5 +26,7 @@
 
 	![Internal Fragmentation](https://media.geeksforgeeks.org/wp-content/uploads/20190924115421/Untitled-Diagram-146.png)
 
+	Internal fragmentation happens when the memory is split into mounted size blocks. When a method or a program runs, it uses alloted blocks. Internal fragmentation is then the difference between the required space and the memory allocated. 
+
 
 

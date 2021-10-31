@@ -23,6 +23,7 @@
 
 
 	2.2 What is internal fragmentation?
+	
 	![Internal Fragmentation](https://media.geeksforgeeks.org/wp-content/uploads/20190924115421/Untitled-Diagram-146.png)
 
 

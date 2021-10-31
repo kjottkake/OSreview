@@ -18,7 +18,8 @@
 2. Hva menes med ekstern og intern fragmentering i forbindelse med en fil?
 
 	2.1 What is external fragmentation?
-	  ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20190924115421/Untitled-Diagram-146.png)
+
+	![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20190924115421/Untitled-Diagram-146.png)
 
 
 	2.2 What is internal fragmentation?

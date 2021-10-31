@@ -37,4 +37,15 @@
 	Internal fragmentation happens when the memory is split into mounted size blocks. When a method or a program runs, it uses alloted blocks. Internal fragmentation is then the difference between the required space and the memory allocated. 
 
 
+3. Hva er en fildeskriptor (fd)?
+
+In layman's terms, all a file descriptor is: is a list of numbers corresponding to what file is open in the OS. This list of numbers are always positive integers. 
+
+A simple example would be you have the following files open with the following file descriptor keeping track of which file is open:
+
+hw.txt    101
+oblig.txt 102
+
+
+
 

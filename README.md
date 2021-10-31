@@ -51,6 +51,7 @@ listofstuff.txt 103
     eier, rettigheter, timestamps etc. Hvor er disse dataene lagret i
     Linux-filsystemet (EXT)?
 
+It is stored in the inodes.
 
 
 

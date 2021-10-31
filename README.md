@@ -6,6 +6,7 @@
 1. In an EXT-filesystem, how many inodes does a file have?
 	
 	1.1 What the hell are inodes?
+	https://www.howtogeek.com/465350/everything-you-ever-wanted-to-know-about-inodes-on-linux/
 	
 	The Linux file system relies on inodes.
 
@@ -15,6 +16,14 @@
 
 
 2. Hva menes med ekstern og intern fragmentering i forbindelse med en fil?
+
+	2.1 What is external fragmentation?
+	![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20190924115421/Untitled-Diagram-146.png)
+
+
+	2.2 What is internal fragmentation?
+
+
 
 3. Hva er en fildeskriptor (fd)?
 

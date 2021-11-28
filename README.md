@@ -1,6 +1,7 @@
 # Operating Systems Review Questions and Problems.
 
 
+
 ## Chapter 10 File Systems
 
 1. In an EXT-filesystem, how many inodes does a file have?
@@ -51,7 +52,26 @@ listofstuff.txt 103
     eier, rettigheter, timestamps etc. Hvor er disse dataene lagret i
     Linux-filsystemet (EXT)?
 
-It is stored in the inodes.
+	It is stored in the inodes.
+
+5.  Hvorfor kan filsystemet bli skadet dersom datamaskinen får en kræsj
+    når det ikke er et journalling filsystem?
+
+
+## Previous Exam Questions:
+
+IMT2282 Operativsystemer - eksamen august 2020
+
+1. Når man ikke bruker fortegn, hva er det største tallet man kan lagre i et 5 bits register?
+
+31
+
+IMT2282 Operativsystemer - eksamen mai 2020
+
+1. Hva er hensikten med å lage abstraksjoner i ett operativsystem?
+
+Vi lager abstraksjoner for å kunne håndtere kompleksitet. Vi gjemmer de komplekse detaljene bak mer enkle abstraksjoner. Slik kan vi lage kode som nytter abstrasjoner, og dermed ikke blir maskinvare-spesifikk.
+
 
 
 

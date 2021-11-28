@@ -72,6 +72,33 @@ IMT2282 Operativsystemer - eksamen mai 2020
 
 Vi lager abstraksjoner for å kunne håndtere kompleksitet. Vi gjemmer de komplekse detaljene bak mer enkle abstraksjoner. Slik kan vi lage kode som nytter abstrasjoner, og dermed ikke blir maskinvare-spesifikk.
 
+3. Hvordan benyttes SP og BP til å holde kontroll på en funksjons stack-frame? Hva skjer med disse registrene
+når en ny funksjon startes?
+
+Stack pointer og base pointer peker hhv. på topp og bunn av nåværende
+stack frame. Når en ny funksjon starter vil returpeker pushes på stacken,
+som gjør at SP flytter seg videre automatisk. For å definere ny stack-frame
+pusher den nye funksjonen eksisterende BP på stacken før den flytter BP til
+å peke samme sted som SP. Alt som fra nå pushes vil legges til den nye
+"stack-frame"-en
+
+5. Processes
+
+Hva er busy waiting
+
+At en prosess venter i en while-løkke til en hendelse (typisk en spinlock som endrer verdi) intreffe
+
+6. En mutex er en variabel som
+
+Kan benyttes til å låse kritisk sektor.
+
+7. Når en context switch forekommer så utfører operativsystemet et sett med instruksjoner som velger hvilken
+prosess som skal få kjøre som nestemann. Hvorfor er disse instruksjonene alltid tilstede i minne (RAM)?
+
+Fordi context switch må være så raskt som mulig, og det er ikke tid til å hente inn koden fra disk når den skal kjøres, den må være tilstede i minne til enhver tid.
+
+
+
 
 
 
